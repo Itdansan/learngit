@@ -5,3 +5,5 @@ Git is free software well.
 
 真心觉得自己很帅，肿么办！
 没办法，天生的
+
+Creating a new branch is quick dev
